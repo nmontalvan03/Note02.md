@@ -66,4 +66,4 @@ that you want to develop.
 
 # Question
 
-What would happen if one day all AWS services failed, although the system might go down for a while?
+What would happen if one day all AWS services failed ?
