@@ -32,7 +32,7 @@ because data transfer is free.
 pay less when you use more and as aws grows: focuses on the low costs of doing business which results
 in savings for the economy.
 
-# AWS modelos de pago: Key Principles 
+# AWS payment models: Key Principles 
 
 Three fundamental drivers of cost 
 
